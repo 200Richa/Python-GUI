@@ -7,7 +7,7 @@ text = turtle.Turtle()
 text.penup()
 text.hideturtle()
 image = "./blank_states_img.gif"
-states = "/Users/rakeshkashyap/PycharmProjects/day-25/us-states-game-start/50_states.csv"
+states = "./50_states.csv"
 screen.addshape(image)
 turtle.shape(image)
 df = pandas.read_csv(states)
