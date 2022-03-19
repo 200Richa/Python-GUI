@@ -1,4 +1,4 @@
-# Python-GUI
+# Python-GUI and OOP Concepts
 This repo contains projects with Python-GUI Tkinter library.
 
 Every folder has a main.py file and some additional imported files for classes and methods.
@@ -19,3 +19,5 @@ Images are included for building an interactive GUI interface.
 [Turtle Cross Game](https://github.com/200Richa/Python-GUI/tree/main/TurtleCrossGame)
 
 [States Markup Game](https://github.com/200Richa/Python-GUI/tree/main/USStatesGame)
+
+[Snake](https://github.com/200Richa/Python-GUI/tree/main/Snake)
